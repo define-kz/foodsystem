@@ -1,0 +1,11 @@
+{
+  "mobilnoe_prilozhenie": {
+    "title": "Мобильное приложение",
+    "list": "List",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search...",
+    "empty": "No data"
+  }
+}
