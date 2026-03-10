@@ -1,0 +1,11 @@
+{
+  "admin_panel_i_analitika": {
+    "title": "Админ-панель и аналитика",
+    "list": "List",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search...",
+    "empty": "No data"
+  }
+}
