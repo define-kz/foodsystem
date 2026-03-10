@@ -1,0 +1,11 @@
+{
+  "upravlenie_restoranami_tenant": {
+    "title": "Управление ресторанами (Tenant)",
+    "list": "Тізім",
+    "create": "Жасау",
+    "edit": "Өңдеу",
+    "delete": "Жою",
+    "search": "Іздеу...",
+    "empty": "Деректер жоқ"
+  }
+}
