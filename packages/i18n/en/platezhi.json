@@ -1,0 +1,11 @@
+{
+  "platezhi": {
+    "title": "Платежи",
+    "list": "List",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search...",
+    "empty": "No data"
+  }
+}
