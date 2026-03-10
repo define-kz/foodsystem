@@ -1,0 +1,11 @@
+{
+  "integratsii_s_vneshnimi_servisami": {
+    "title": "Интеграции с внешними сервисами",
+    "list": "Тізім",
+    "create": "Жасау",
+    "edit": "Өңдеу",
+    "delete": "Жою",
+    "search": "Іздеу...",
+    "empty": "Деректер жоқ"
+  }
+}
