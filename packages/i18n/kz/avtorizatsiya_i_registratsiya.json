@@ -1,0 +1,11 @@
+{
+  "avtorizatsiya_i_registratsiya": {
+    "title": "Авторизация и регистрация",
+    "list": "Тізім",
+    "create": "Жасау",
+    "edit": "Өңдеу",
+    "delete": "Жою",
+    "search": "Іздеу...",
+    "empty": "Деректер жоқ"
+  }
+}

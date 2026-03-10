@@ -1,0 +1,11 @@
+{
+  "avtorizatsiya_i_registratsiya": {
+    "title": "Авторизация и регистрация",
+    "list": "List",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search...",
+    "empty": "No data"
+  }
+}
