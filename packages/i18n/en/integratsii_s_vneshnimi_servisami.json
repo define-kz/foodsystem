@@ -1,0 +1,11 @@
+{
+  "integratsii_s_vneshnimi_servisami": {
+    "title": "Интеграции с внешними сервисами",
+    "list": "List",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search...",
+    "empty": "No data"
+  }
+}
