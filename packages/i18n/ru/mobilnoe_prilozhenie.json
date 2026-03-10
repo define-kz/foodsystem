@@ -1,0 +1,17 @@
+{
+  "mobilnoe_prilozhenie": {
+    "title": "Мобильное приложение",
+    "list": "Список",
+    "create": "Создать",
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "search": "Поиск...",
+    "empty": "Нет данных",
+    "confirm_delete": "Вы уверены?",
+    "success_create": "Успешно создано",
+    "success_update": "Обновлено",
+    "success_delete": "Удалено",
+    "error_not_found": "Не найдено",
+    "error_validation": "Проверьте данные"
+  }
+}
