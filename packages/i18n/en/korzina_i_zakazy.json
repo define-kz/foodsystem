@@ -1,0 +1,11 @@
+{
+  "korzina_i_zakazy": {
+    "title": "Корзина и заказы",
+    "list": "List",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search...",
+    "empty": "No data"
+  }
+}
