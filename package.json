@@ -1,0 +1,6 @@
+{
+  "name": "foodsystem",
+  "version": "0.1.0",
+  "private": true,
+  "description": "FoodSystem - Multi-tenant Food Delivery Platform"
+}

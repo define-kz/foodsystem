@@ -1,0 +1,30 @@
+version: "3.8"
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: fs-postgres
+    environment:
+      POSTGRES_USER: foodsystem
+      POSTGRES_PASSWORD: fs_secret_2024
+      POSTGRES_DB: foodsystem
+    ports:
+      - "5433:5432"
+    volumes:
+      - fs_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U foodsystem"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: fs-redis
+    ports:
+      - "6380:6379"
+    volumes:
+      - fs_redisdata:/data
+
+volumes:
+  fs_pgdata:
+  fs_redisdata:
