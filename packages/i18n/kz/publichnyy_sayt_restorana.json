@@ -1,0 +1,11 @@
+{
+  "publichnyy_sayt_restorana": {
+    "title": "Публичный сайт ресторана",
+    "list": "Тізім",
+    "create": "Жасау",
+    "edit": "Өңдеу",
+    "delete": "Жою",
+    "search": "Іздеу...",
+    "empty": "Деректер жоқ"
+  }
+}
